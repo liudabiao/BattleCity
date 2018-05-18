@@ -1,0 +1,60 @@
+.tank{
+	width:30px;
+	height:30px;
+	background:url(up.gif);
+	position:absolute;
+	top:570px;
+	left:240px;
+}
+
+.BB{
+	border:2px solid #980fe7; 
+	width: 600px; 
+	height: 600px;
+	background-color: black; 
+	position: absolute;
+	top: 10px; 
+	left: 300px;
+	display:block;
+}
+
+.bullet{
+	width:5px;
+	height:5px;
+	position:absolute;
+	top:564px;
+	left:252px;
+}
+
+.army{
+	width:30px;
+	height:30px;
+	background:url(armydown.gif);
+	position:absolute;
+}
+
+.wall{
+	width:15px;
+	height:15px;
+	top:30px;
+	left:30px;
+	position:absolute;
+	background:url(wall1.gif);
+}
+
+.home{
+	width:40px;
+	height:40px;
+	top:555px;
+	left:287.5px;
+	position:absolute;
+	background:url(home.gif);
+}
+
+.boom{
+	width:30px;
+	height:30px;
+	position:absolute;
+	background:url(boom.gif);
+	display:block;
+}
